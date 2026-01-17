@@ -3,3 +3,4 @@ data/
 .env
 *.pth
 *.pt
+digit.png
